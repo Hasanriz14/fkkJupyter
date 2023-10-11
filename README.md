@@ -1,2 +1,2 @@
 # fkkJupyter
-csv reading through pands
+csv reading through pandas
